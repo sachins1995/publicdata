@@ -1,11 +1,11 @@
 import pandas as pd
 import streamlit as st
 from matplotlib import pyplot as plt
-from PIL import Image as img
+#from PIL import Image as img
 
 #Putting Image
-image=img.open(r"C:\Users\SachinSingh\Desktop\Python projects\Streamlit\Samunnati Logo-01.png")#opening image
-st.image(image)#displaying image
+#image=img.open(r"C:\Users\SachinSingh\Desktop\Python projects\Streamlit\Samunnati Logo-01.png")#opening image
+#st.image(image)#displaying image
 
 #Title of the page
 st.title('DASHBOARD FOR KISAN PAY')
