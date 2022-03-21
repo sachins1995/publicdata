@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu as stmenu
 import pandas as pd
 from matplotlib import pyplot as plt
-from PIL import Image as img
+#from PIL import Image as img
 
 #Title of the page
 st.title('DASHBOARD FOR KISAN PAY')
